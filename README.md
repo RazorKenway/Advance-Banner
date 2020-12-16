@@ -1,18 +1,18 @@
-# Hide-In-Picture
+# Advance-Banner
 
 ## Command list👇
 
->`pkg update && pkg upgrade
+> pkg update && pkg upgrade
 
->`pkg install git
+> pkg install git
 
->`git clone http://github.com/RazorKenway/Hide-In-Picture.git
+> git clone http://github.com/RazorKenway/Advance-Banner.git
 
->`cd Hide-In-Picture
+> cd Advance-Banner
 
->`python requirements.py
+> python requirements.py
 
->`python hide.py
+> bash slandroid.sh
 
 
 
@@ -22,7 +22,7 @@
 
 <hr colour="Red">
 
-<img src="Hide-In-Picture.png" size ="15">
+<img src="Advance-Banner.png" size ="15">
 
 <br>
 
