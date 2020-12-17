@@ -22,7 +22,7 @@
 
 <hr colour="Red">
 
-<img src="Advance-Banner.png" size ="15">
+<img src="Advance-Banner.png" size ="14">
 
 <br>
 
