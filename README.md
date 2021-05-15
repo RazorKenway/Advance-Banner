@@ -12,7 +12,7 @@
 
 > python requirements.py
 
-> bash slandroid.sh
+> python slandroid.py
 
 
 
