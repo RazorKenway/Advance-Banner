@@ -9,7 +9,7 @@
 > pkg install ruby
 
 
-> pkg install wget
+
 
 > git clone http://github.com/RazorKenway/Advance-Banner.git
 
